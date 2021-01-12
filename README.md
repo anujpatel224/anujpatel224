@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning *bash scripting*
 
-- 🤝 I’m looking for opportunities in the field of cyber security
+- 🤝 I’m looking for opportunities in the field of cyber security and Software development
 
 - 👨‍💻 All of my projects are available at [https://github.com/anujpatel224](https://github.com/anujpatel224)
 

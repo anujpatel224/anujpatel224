@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Web Application Scanner](https://github.com/anujpatel224/project/tree/main/VulnScan)
 
-- 🌱 I’m currently learning *bash scripting*
+- 🌱 I’m currently learning *JAVA technologies i,e JSP,Servlet,Spring*
 
 - 🤝 I’m looking for opportunities in the field of cyber security and Software development
 

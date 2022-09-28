@@ -3,11 +3,11 @@
 
 
 
-- 🔭 I’m currently working on [Web Application Scanner](https://github.com/anujpatel224/project/tree/main/VulnScan)
+- 🔭 I’m currently working on [React project](https://github.com/anujpatel224/project/tree/main/VulnScan)
 
-- 🌱 I’m currently learning *JAVA technologies i,e JSP,Servlet,Spring*
+- 🌱 I’m currently learning *React technologies *
 
-- 🤝 I’m looking for opportunities in the field of cyber security and Software development
+- 🤝 I’m looking for opportunities in the field Software development
 
 - 👨‍💻 All of my projects are available at [https://github.com/anujpatel224](https://github.com/anujpatel224)
 
